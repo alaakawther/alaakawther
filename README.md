@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Alaa 👋
 
-<!--
-**alaakawther/alaakawther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Projects
+
+### Featured Projects
+
+- Whimzy Nights
+- Ramadan Qada Tracker
+- Web Calculator
+
+I regularly build and publish new projects as part of my learning journey in computer science and software development.
+## Currently Learning
+
+- Web Development
+- Data Structures
+
+## Goals
+
+- Build impactful web applications
+- Improve problem-solving skills
+- Grow as a software developer
