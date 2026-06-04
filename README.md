@@ -17,6 +17,7 @@ Computer Science Student
 - Whimzy Nights
 - Ramadan Qada Tracker
 - Web Calculator
+- ScholarSync
 
 I regularly build and publish new projects as part of my learning journey in computer science and software development.
 ## Currently Learning
