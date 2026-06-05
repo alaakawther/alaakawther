@@ -29,4 +29,4 @@ I regularly build and publish new projects as part of my learning journey in com
 
 - Build impactful web applications
 - Improve problem-solving skills
-- Grow as a software developer .
+- Grow as a software developer.
