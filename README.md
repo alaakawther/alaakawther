@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaiter Alaa Kawther</h1>
-<h3 align="center">A passionate frontend developeComputer Engineering Student & Junior Web Developerr from India</h3>
+<h3 align="center">A passionate frontend developeComputer Engineering Student & Junior Web Developerr </h3>
 
 - 🌱 I’m currently learning **Python programming, advanced algorithms, and systems engineering**
 
