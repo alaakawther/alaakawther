@@ -1,21 +1,28 @@
+Write the fully fixed README with correct image URL, working typing SVG, and correct portfolio link
+bash
+
+cat > /mnt/user-data/outputs/README.md << 'EOF'
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=13&duration=3000&pause=1000&color=C8B0F7&center=true&vCenter=true&width=435&lines=✦+welcome+to+my+little+corner+✦;building+pretty+things+on+the+web+🌷;computer+engineering+student+✨;always+learning%2C+always+growing+🌸" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
-<br>
-
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/287318376?v=4" width="180px" style="border-radius: 50%;" alt="Alaa Kawther"/>
-</div>
+
+<!-- STEP 1: Upload portfolio.jpg to your alaakawther repo, then this line will show it -->
+<img src="https://raw.githubusercontent.com/alaakawther/alaakawther/main/portfolio.jpg" width="160" style="border-radius:50%;" alt="Alaa Kawther"/>
+
+<br><br>
+
+<a href="https://github.com/alaakawther">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=14&duration=3000&pause=1000&color=C8B0F7&center=true&vCenter=true&width=500&lines=%E2%9C%A6+welcome+to+my+little+corner+%E2%9C%A6;building+pretty+things+on+the+web+%F0%9F%8C%B7;computer+engineering+student+%E2%9C%A8;always+learning%2C+always+growing+%F0%9F%8C%B8" alt="Typing SVG" />
+</a>
 
 <br>
-
-<div align="center">
 
 ```
-·˚ ༘₊· ͟͟͞͞꒰➳ hi, i'm alaa kawther zaiter ✿ ꒱
+·˚ ༘₊·  hi, i'm alaa kawther zaiter ✿
 ```
 
 **`Computer Engineering Student · Junior Frontend Developer`**
@@ -64,10 +71,6 @@ vibe:      cozy study aesthetic 🌷
 ![VS Code](https://img.shields.io/badge/VS%20Code-D6F0FF?style=for-the-badge&logo=visual-studio-code&logoColor=3a8fbf)
 ![Vercel](https://img.shields.io/badge/Vercel-FFF3A3?style=for-the-badge&logo=vercel&logoColor=b8930a)
 
-</div>
-
-<div align="center">
-
 *currently learning →*
 ![Python](https://img.shields.io/badge/Python-FFD6E8?style=flat&logo=python&logoColor=d4688f)
 ![React](https://img.shields.io/badge/React-D6F0FF?style=flat&logo=react&logoColor=3a8fbf)
@@ -96,13 +99,9 @@ vibe:      cozy study aesthetic 🌷
 
 <div align="center">
 
-> ✦ i made a full portfolio website — come take a look! ✦
-
-**→ [alaa-kawther.netlify.app](https://github.com/alaakawther) ←**
-
 *pastel · dreamy · professional · built with love 🌷*
 
-[![portfolio](https://img.shields.io/badge/✦%20view%20my%20portfolio-C8B0F7?style=for-the-badge&logoColor=white)](https://github.com/alaakawther)
+[![portfolio](https://img.shields.io/badge/%E2%9C%A6%20view%20my%20portfolio-C8B0F7?style=for-the-badge&logoColor=white)](https://alaakawther.github.io/alaakawther/)
 
 </div>
 
@@ -112,12 +111,12 @@ vibe:      cozy study aesthetic 🌷
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alaakawther&show_icons=true&theme=transparent&title_color=C8B0F7&icon_color=FFB3D3&text_color=9b8aad&border_color=E6D8FF&bg_color=00000000&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaakawther&layout=compact&theme=transparent&title_color=C8B0F7&text_color=9b8aad&border_color=E6D8FF&bg_color=00000000&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alaakawther&show_icons=true&theme=transparent&title_color=C8B0F7&icon_color=FFB3D3&text_color=9b8aad&border_color=E6D8FF&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaakawther&layout=compact&theme=transparent&title_color=C8B0F7&text_color=9b8aad&border_color=E6D8FF&langs_count=6" height="165"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alaakawther&theme=transparent&ring=C8B0F7&fire=FFB3D3&currStreakLabel=C8B0F7&border=E6D8FF&currStreakNum=9b8aad&sideLabels=9b8aad&sideNums=C8B0F7&dates=E6D8FF&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=alaakawther&theme=transparent&ring=C8B0F7&fire=FFB3D3&currStreakLabel=C8B0F7&border=E6D8FF&currStreakNum=9b8aad&sideLabels=9b8aad&sideNums=C8B0F7&dates=9b8aad" />
 
 </div>
 
@@ -146,3 +145,9 @@ thanks for visiting ♡  come back soon 🌸
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alaakawther.alaakawther&color=C8B0F7)
 
 </div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%"/>
+</div>
+EOF
+echo "Done! $(wc -l < /mnt/user-data/outputs/README.md) lines"
