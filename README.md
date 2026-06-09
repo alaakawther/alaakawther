@@ -2,15 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<!-- STEP 1: Upload portfolio.jpg to your alaakawther repo, then this line will show it -->
-<img src="https://raw.githubusercontent.com/alaakawther/alaakawther/main/portfolio.jpg" width="160" style="border-radius:50%;" alt="Alaa Kawther"/>
-
-<br><br>
-
 <a href="https://github.com/alaakawther">
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=14&duration=3000&pause=1000&color=C8B0F7&center=true&vCenter=true&width=500&lines=%E2%9C%A6+welcome+to+my+little+corner+%E2%9C%A6;building+pretty+things+on+the+web+%F0%9F%8C%B7;computer+engineering+student+%E2%9C%A8;always+learning%2C+always+growing+%F0%9F%8C%B8" alt="Typing SVG" />
 </a>
