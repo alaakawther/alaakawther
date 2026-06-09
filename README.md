@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=&fontSize=0" width="100%"/>
+
+</div>
+
+<div align="center">
+
 <!-- STEP 1: Upload portfolio.jpg to your alaakawther repo, then this line will show it -->
 <img src="https://raw.githubusercontent.com/alaakawther/alaakawther/main/portfolio.jpg" width="160" style="border-radius:50%;" alt="Alaa Kawther"/>
 
