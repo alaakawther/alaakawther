@@ -145,5 +145,3 @@ thanks for visiting ♡  come back soon 🌸
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%"/>
 </div>
-EOF
-echo "Done! $(wc -l < /mnt/user-data/outputs/README.md) lines"
