@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<img src="profile.jpg" width="180px" style="border-radius: 50%;" alt="Alaa Kawther"/>
+<img src="https://avatars.githubusercontent.com/u/287318376?v=4" width="180px" style="border-radius: 50%;" alt="Alaa Kawther"/>
 </div>
 
 <br>
