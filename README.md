@@ -87,7 +87,7 @@ vibe:      cozy study aesthetic 🌷
 
 *pastel · dreamy · professional · built with love 🌷*
 
-[![portfolio](https://img.shields.io/badge/%E2%9C%A6%20view%20my%20portfolio-C8B0F7?style=for-the-badge&logoColor=white)](https://alaakawther.github.io/alaakawther/)
+[![portfolio](https://alaa-portfolio-bice.vercel.app/)
 
 </div>
 
