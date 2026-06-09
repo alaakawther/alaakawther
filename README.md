@@ -34,7 +34,7 @@ i love making things that feel **calm, pretty, and actually useful** — interfa
 ```yaml
 name:      Alaa Kawther Zaiter
 location:  Oran, Algeria 🇩🇿
-studying:  Computer Engineering @ University of Oran 1 (IGMO)
+studying:  Computer Engineering
 year:      2nd year
 status:    open to internships ✨
 pronouns:  she/her
