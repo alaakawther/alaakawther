@@ -13,7 +13,6 @@
 ```
 
 **`Computer Engineering Student · Junior Frontend Developer`**
-**`University of Oran 1 · Algeria 🇩🇿`**
 
 <br>
 
