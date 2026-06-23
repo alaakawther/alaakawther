@@ -72,10 +72,8 @@ vibe:      cozy study aesthetic 🌷
 
 | project | what it is | tech | links |
 |:-------:|:----------:|:----:|:-----:|
-| 🌸 **Productivity Haven** | cozy focus dashboard · pomodoro · tasks · mood journal · ambient sounds | HTML CSS JS | [![repo](https://img.shields.io/badge/code-E6D8FF?style=flat&logo=github&logoColor=7c52c8)](https://github.com/alaakawther/productivity-haven) [![live](https://img.shields.io/badge/live-FFD6E8?style=flat&logo=vercel&logoColor=d4688f)](https://productivity-haventodo.vercel.app) |
-| 📚 **ScholarSync** | student management system · GPA tracker · attendance · CRUD | HTML CSS JS | [![repo](https://img.shields.io/badge/code-E6D8FF?style=flat&logo=github&logoColor=7c52c8)](https://github.com/alaakawther/ScholarSync) [![live](https://img.shields.io/badge/live-FFD6E8?style=flat&logo=github-pages&logoColor=d4688f)](https://alaakawther.github.io/ScholarSync/) |
-| 🌙 **Ramadan Qada Tracker** | track missed fasting days · progress calculator | HTML CSS JS | [![repo](https://img.shields.io/badge/code-E6D8FF?style=flat&logo=github&logoColor=7c52c8)](https://github.com/alaakawther/ramadan-qada-tracker) [![live](https://img.shields.io/badge/live-FFD6E8?style=flat&logo=github-pages&logoColor=d4688f)](https://alaakawther.github.io/ramadan-qada-tracker/) |
-| 🧮 **Web Calculator** | clean calculator · semantic html · arithmetic logic | HTML CSS JS | [![repo](https://img.shields.io/badge/code-E6D8FF?style=flat&logo=github&logoColor=7c52c8)](https://github.com/alaakawther/web-calculator) [![live](https://img.shields.io/badge/live-FFD6E8?style=flat&logo=github-pages&logoColor=d4688f)](https://alaakawther.github.io/web-calculator/) |
+| 🧩 **Sudoku Solver** | backtracking-based C program that solves 9x9 sudoku puzzles | C | [![repo](https://img.shields.io/badge/code-E6D8FF?style=flat&logo=github&logoColor=7c52c8)](https://github.com/alaakawther/sudoku_solver) |
+| 🧮 **Calculator** | simple calculator supporting basic arithmetic operations | HTML CSS JS | [![repo](https://img.shields.io/badge/code-E6D8FF?style=flat&logo=github&logoColor=7c52c8)](https://github.com/alaakawther/Calculator) |
 
 </div>
 
