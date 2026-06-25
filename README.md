@@ -58,9 +58,12 @@ vibe:      cozy study aesthetic 🌷
 ![Vercel](https://img.shields.io/badge/Vercel-FFF3A3?style=for-the-badge&logo=vercel&logoColor=b8930a)
 
 *currently learning →*
-![Python](https://img.shields.io/badge/Python-FFD6E8?style=flat&logo=python&logoColor=d4688f)
 ![React](https://img.shields.io/badge/React-D6F0FF?style=flat&logo=react&logoColor=3a8fbf)
 ![Node.js](https://img.shields.io/badge/Node.js-E6D8FF?style=flat&logo=node.js&logoColor=7c52c8)
+
+*comfortable with →*
+![Python](https://img.shields.io/badge/Python-FFD6E8?style=flat&logo=python&logoColor=d4688f)
+![C](https://img.shields.io/badge/C-E6D8FF?style=flat&logo=c&logoColor=7c52c8)
 
 </div>
 
