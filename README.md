@@ -83,6 +83,7 @@ learning:  CSS · Java · React · Node.js
 |:-------:|:----------:|:----:|:-----:|
 | 🧩 **Sudoku Solver** | backtracking-based C program that solves 9x9 sudoku puzzles | C | [![repo](https://img.shields.io/badge/code-E6D8FF?style=flat&logo=github&logoColor=7c52c8)](https://github.com/alaakawther/sudoku_solver) |
 | 🧮 **Calculator** | simple calculator supporting basic arithmetic operations | HTML CSS JS | [![repo](https://img.shields.io/badge/code-E6D8FF?style=flat&logo=github&logoColor=7c52c8)](https://github.com/alaakawther/Calculator) |
+| 📝 **Quiz Application** | Python-based quiz app with multiple questions, score tracking, and menu system | Python | [![repo](https://img.shields.io/badge/code-E6D8FF?style=flat&logo=github&logoColor=7c52c8)](https://github.com/alaakawther/Quiz-Application) |
 
 </div>
 
