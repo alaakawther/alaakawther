@@ -63,13 +63,13 @@ learning:  CSS · Java · React · Node.js
 ![C](https://img.shields.io/badge/C-E6D8FF?style=flat&logo=c&logoColor=7c52c8)
 ![Python](https://img.shields.io/badge/Python-FFD6E8?style=flat&logo=python&logoColor=d4688f)
 ![HTML5](https://img.shields.io/badge/HTML5-FFD6E8?style=flat&logo=html5&logoColor=d4688f)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF3A3?style=flat&logo=javascript&logoColor=b8930a)
 
 *currently learning →*
 ![CSS3](https://img.shields.io/badge/CSS3-D6F0FF?style=flat&logo=css3&logoColor=3a8fbf)
 ![Java](https://img.shields.io/badge/Java-E6D8FF?style=flat&logo=java&logoColor=7c52c8)
 ![React](https://img.shields.io/badge/React-D6F0FF?style=flat&logo=react&logoColor=3a8fbf)
 ![Node.js](https://img.shields.io/badge/Node.js-E6D8FF?style=flat&logo=node.js&logoColor=7c52c8)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF3A3?style=flat&logo=javascript&logoColor=b8930a)
 
 </div>
 
