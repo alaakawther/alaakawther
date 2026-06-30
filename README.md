@@ -95,7 +95,7 @@ learning:  CSS · Java · React · Node.js
 
 *pastel · dreamy · professional · built with love 🌷*
 
-[![portfolio](https://img.shields.io/badge/%E2%9C%A6%20view%20my%20portfolio-C8B0F7?style=for-the-badge&logoColor=white)](https://portfoliothe.vercel.app/)
+[![portfolio](https://img.shields.io/badge/%E2%9C%A6%20view%20my%20portfolio-C8B0F7?style=for-the-badge&logoColor=white)](https://portfoliotheone-six.vercel.app/)
 
 </div>
 
