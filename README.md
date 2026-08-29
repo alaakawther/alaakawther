@@ -121,8 +121,9 @@ learning:  CSS · Java · React · Node.js
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧%20email%20me-FFD6E8?style=for-the-badge&logoColor=d4688f)](mailto:zaiteralaakawther@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20linkedin-D6F0FF?style=for-the-badge&logoColor=3a8fbf)](https://www.linkedin.com/in/alaa-zaiter-935315414)
-[![Instagram](https://img.shields.io/badge/📸%20instagram-E6D8FF?style=for-the-badge&logoColor=7c52c8)](https://www.instagram.com/whimzynights)
+[![LinkedIn](https://img.shields.io/badge/💼%20linkedin-D6F0FF?style=for-the-badge&logoColor=3a8fbf)](
+https://www.linkedin.com/in/alaa-kawther-zaiter-935315414)
+[![Instagram](https://img.shields.io/badge/📸%20instagram-E6D8FF?style=for-the-badge&logoColor=7c52c8)](https://www.instagram.com/eng_alaakawther?igsi=MmFpZTRwbTQxbXZw)
 
 </div>
 
